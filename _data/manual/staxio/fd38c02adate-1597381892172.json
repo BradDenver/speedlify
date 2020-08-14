@@ -1,0 +1,46 @@
+{
+  "url": "https://www.stax.io/careers/",
+  "requestedUrl": "https://www.stax.io/careers/",
+  "timestamp": 1597381988621,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 4,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.2.0",
+    "performance": 0.32,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 319
+  },
+  "firstContentfulPaint": 2311.097,
+  "speedIndex": 4409.7590544680515,
+  "largestContentfulPaint": 12466.297999999999,
+  "totalBlockingTime": 2655.862499999998,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 12124.737999999998,
+  "maxPotentialFirstInputDelay": 1461.9999999999995,
+  "timeToFirstByte": 37.388000000000005,
+  "weight": {
+    "summary": "38 requests • 1,133 KiB",
+    "total": 1159990,
+    "image": 21225,
+    "imageCount": 7,
+    "script": 1078343,
+    "scriptCount": 13,
+    "document": 18928,
+    "font": 28705,
+    "fontCount": 2,
+    "stylesheet": 1491,
+    "stylesheetCount": 2,
+    "thirdParty": 252864,
+    "thirdPartyCount": 20
+  },
+  "axe": {
+    "passes": 468,
+    "violations": 13
+  }
+}

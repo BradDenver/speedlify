@@ -1,0 +1,46 @@
+{
+  "url": "https://www.stax.io/blog/2020-02-26-why-we-built-stax-frombespoke-buildsto-automated-best-practice-deployments/",
+  "requestedUrl": "https://www.stax.io/blog/2020-02-26-why-we-built-stax-frombespoke-buildsto-automated-best-practice-deployments/",
+  "timestamp": 1597381961127,
+  "ranks": {
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 3,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.2.0",
+    "performance": 0.27,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 314
+  },
+  "firstContentfulPaint": 2113.598,
+  "speedIndex": 6802.140372936106,
+  "largestContentfulPaint": 12880.025,
+  "totalBlockingTime": 2655.5664999999985,
+  "cumulativeLayoutShift": 0.00019205729166666666,
+  "timeToInteractive": 12030.2045,
+  "maxPotentialFirstInputDelay": 1148.9999999999982,
+  "timeToFirstByte": 329.639,
+  "weight": {
+    "summary": "37 requests • 1,134 KiB",
+    "total": 1160850,
+    "image": 31304,
+    "imageCount": 8,
+    "script": 1069990,
+    "scriptCount": 12,
+    "document": 19544,
+    "font": 28705,
+    "fontCount": 2,
+    "stylesheet": 1491,
+    "stylesheetCount": 2,
+    "thirdParty": 248712,
+    "thirdPartyCount": 19
+  },
+  "axe": {
+    "passes": 435,
+    "violations": 12
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.stax.io/docs/",
+  "requestedUrl": "https://www.stax.io/docs/",
+  "timestamp": 1597382059824,
+  "ranks": {
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 1,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.2.0",
+    "performance": 0.27,
+    "accessibility": 0.99,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 319
+  },
+  "firstContentfulPaint": 2199.4120000000003,
+  "speedIndex": 6954.299105182676,
+  "largestContentfulPaint": 8254.05,
+  "totalBlockingTime": 2208.896999999998,
+  "cumulativeLayoutShift": 0.0243359375,
+  "timeToInteractive": 12235.462,
+  "maxPotentialFirstInputDelay": 1261.9999999999982,
+  "timeToFirstByte": 40.54999999999998,
+  "weight": {
+    "summary": "46 requests • 1,134 KiB",
+    "total": 1161037,
+    "image": 9647,
+    "imageCount": 10,
+    "script": 1070742,
+    "scriptCount": 13,
+    "document": 18831,
+    "font": 45584,
+    "fontCount": 1,
+    "stylesheet": 1491,
+    "stylesheetCount": 2,
+    "thirdParty": 267259,
+    "thirdPartyCount": 20
+  },
+  "axe": {
+    "passes": 477,
+    "violations": 4
+  }
+}
