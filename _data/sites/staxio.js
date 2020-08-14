@@ -12,7 +12,7 @@ module.exports = {
 		// Use "site" if sites are all on the same origin and share assets.
 		freshChrome: "site",
     // Data directory, results go into `_data/manual` instead of `_data/results`
-		useManualResultsDir: true,
+		useManualResultsDir: false,
 	},
 	urls: [
 		"https://www.stax.io/",
